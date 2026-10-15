@@ -1,0 +1,13 @@
+{
+  "language": "de",
+  "locale": "de-DE",
+  "csv": "../vocabulary/german.csv",
+  "voice": "de-DE-KatjaNeural",
+  "english_voice": "en-US-JennyNeural",
+  "sample_text": "Hallo! Guten Tag. Ich hätte gern ein Wasser und einen Kaffee, bitte. Wo ist die Toilette? Eins, zwei, drei. Vielen Dank und auf Wiedersehen!",
+  "rate": -15,
+  "english_rate": -5,
+  "between_languages": 1.5,
+  "between_words": 3.0,
+  "repetitions": 1
+}
